@@ -1,10 +1,10 @@
 # mockServer
 
-## description
+## Features
 
 easy to mock data by http server(非常简单的数据mock服务器)
 
-## usage
+## Usage
 
 - 确认当前环境已安装node
 - 建立项目目录，如test
@@ -12,7 +12,7 @@ easy to mock data by http server(非常简单的数据mock服务器)
 - 运行指令 npm start启动mock服务
 - 通过axios或其他类库发起请求获取mock数据
 
-## example
+## Example
 
 ```js
   import axios from 'axios'
